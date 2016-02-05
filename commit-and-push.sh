@@ -1,3 +1,3 @@
 #! /bin/bash
-bash commit.sh
-bash push.sh
+bash ./commit.sh
+bash ./push.sh
